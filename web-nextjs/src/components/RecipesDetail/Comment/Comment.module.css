@@ -1,0 +1,111 @@
+
+.avatarWrapper {
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.displayFlexBtw {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+}
+
+.dislayFlexCenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.displayFlexStart {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+}
+.text {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.subText {
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+}
+
+.titleSmall {
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14px;
+}
+
+.icon {
+    padding: 0px 10px;
+
+}
+
+.pl_5 {
+    padding-left: 5px;
+}
+
+.alertContent {
+    padding: 5px 0px !important;
+    min-width: 586px;
+}
+
+.dialogCmt {
+    justify-content: space-between;
+}
+
+.titleDialog {
+    font-family: 'Urbanist';
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: var(--textDark3);
+}
+
+.userNameReply {
+    color: var(--orange);
+}
+.desReply {
+    color: var(--pinkTermCondition);
+}
+
+.userCmt {
+    align-items: center;
+}
+
+.userName{
+    font-family: 'Urbanist';
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 20px;
+    color: var(--textDark3);
+}
+
+.textArea {
+    border: 1px solid var(--whiteGrey);
+    border-radius: 5px;
+    padding: 4px 10px;
+    width: -webkit-fill-available;
+    min-height: 120px;
+}
+
+.btnAlert {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 18px 68px;
+    width: 241px;
+    height: 61px;
+    background: var(--orange);
+    border-radius: 5px;
+    font-family: 'Urbanist';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: var(--white);
+}

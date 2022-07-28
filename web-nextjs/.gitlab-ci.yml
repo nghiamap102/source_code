@@ -1,0 +1,93 @@
+stages:
+  - test
+  - build
+
+image: node:16-alpine
+
+test:
+  stage: test
+  # tags:
+  #   - develop
+  script: |
+    echo "init CI/CD..."
+    rm -rf package-lock.json
+    yarn
+    npm run lint
+    npm run test:coverage
+  only:
+    - pushes
+    - merge_requests
+
+.build:
+  stage: build
+  image: mcr.microsoft.com/azure-cli
+  services:
+    - docker:19.03.1-dind
+  variables:
+    PROJECT_NAME: nutriasia
+    REPO_NAME: webnextjs
+  before_script:
+    - apk add --update docker openrc
+    - rc-update add docker boot
+    - az login --service-principal --username $APP_ID --password $PASSWORD --tenant $TENANT_ID
+    - az acr login --name ${PROJECT_NAME}.azurecr.io
+  script:
+    - TS=$(date +%s)
+    - docker build -t ${PROJECT_NAME}.azurecr.io/${REPO_NAME}:tag-${ENV}-${CI_COMMIT_SHORT_SHA}-${TS} .
+    - docker push ${PROJECT_NAME}.azurecr.io/${REPO_NAME}:tag-${ENV}-${CI_COMMIT_SHORT_SHA}-${TS}
+build-dev:
+  extends: .build
+  only:
+    - dev
+    - develop
+  variables:
+    ENV: dev
+  tags:
+    - dev
+
+build-uat:
+  extends: .build
+  only:
+    - uat
+  variables:
+    ENV: uat
+  tags:
+    - uat
+
+build-prod:
+  extends: .build
+  only:
+    - master
+    - main
+  variables:
+    ENV: prod
+  when: manual
+  tags:
+    - prod
+
+# include:
+#   - project: 'rx3/bipbip/Infrastructure/common-pipelines'
+#     ref: master
+#     file: '/globals/test/security-testing.yml'
+# #  - project: 'rx3/bipbip/Infrastructure/common-pipelines'
+# #    ref: master
+# #    file: '/golang/test/golang_test.yml'
+#   - project: 'rx3/bipbip/Infrastructure/common-pipelines'
+#     ref: master
+#     file: '/globals/build/build.yml'
+#   - project: 'rx3/bipbip/Infrastructure/common-pipelines'
+#     ref: master
+#     file: '/globals/deploy/deploy.yml'
+
+# variables:
+#   DOCKER_DRIVER: overlay2
+#   GIT_STRATEGY: fetch
+#   GIT_DEPTH: 20
+#   SERVICE: bipbip-web
+#   TEAM: jx
+#   APP_NAME: central
+#   VERSION: $CI_COMMIT_REF_NAME
+#   LANGUAGE: node # https://hub.docker.com/r/snyk/snyk
+#   REPO_URL: dkr.ecr.ap-southeast-1.amazonaws.com
+#   REPO_PREFIX: kdbb
+#   REPO_NAME: bipbip-web

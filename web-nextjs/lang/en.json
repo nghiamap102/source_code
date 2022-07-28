@@ -1,0 +1,762 @@
+{
+  "na2RcB": {
+    "defaultMessage": "Shipping address",
+    "description": ""
+  },
+  "y-uyvD": {
+    "defaultMessage": "No information available",
+    "description": ""
+  },
+  "NsjVLL": {
+    "defaultMessage": "Order",
+    "description": ""
+  },
+  "QArPxt": {
+    "defaultMessage": "Temporary",
+    "description": ""
+  },
+  "yLfm4P": {
+    "defaultMessage": "Discount",
+    "description": ""
+  },
+  "XmhVX-": {
+    "defaultMessage": "Shipping fee",
+    "description": ""
+  },
+  "fkZGki": {
+    "defaultMessage": "Total",
+    "description": ""
+  },
+  "_V1do2": {
+    "defaultMessage": "VAT included if any",
+    "description": ""
+  },
+  "7lzLO2": {
+    "defaultMessage": "Purchase ({number})",
+    "description": ""
+  },
+  "jDtc9O": {
+    "defaultMessage": "Your offer code",
+    "description": ""
+  },
+  "N6lePu": {
+    "defaultMessage": "Select or enter a discount code",
+    "description": ""
+  },
+  "e1Aw2b": {
+    "defaultMessage": "Promo Code",
+    "description": ""
+  },
+  "6vxXsq": {
+    "defaultMessage": "Currently has ({number}) code",
+    "description": ""
+  },
+  "L8gBxv": {
+    "defaultMessage": "Order",
+    "description": ""
+  },
+  "4f8PfK": {
+    "defaultMessage": "Change",
+    "description": ""
+  },
+  "cUF-JT": {
+    "defaultMessage": "({number}) products",
+    "description": ""
+  },
+  "H8yizN": {
+    "defaultMessage": "Please enter enough information",
+    "description": ""
+  },
+  "NLHF05": {
+    "defaultMessage": "Add new address",
+    "description": ""
+  },
+  "_7vjPz": {
+    "defaultMessage": "New address",
+    "description": ""
+  },
+  "xMIyQZ": {
+    "defaultMessage": "Select City",
+    "description": ""
+  },
+  "b-BHr1": {
+    "defaultMessage": "Select District/District",
+    "description": ""
+  },
+  "XWzmDX": {
+    "defaultMessage": "Select Ward/Commune",
+    "description": ""
+  },
+  "hZT23f": {
+    "defaultMessage": "Apartment",
+    "description": ""
+  },
+  "EFWgJA": {
+    "defaultMessage": "Home",
+    "description": ""
+  },
+  "n8hQtC": {
+    "defaultMessage": "Apartment name - Tower - Apartment",
+    "description": ""
+  },
+  "XF2L0y": {
+    "defaultMessage": "House number and street",
+    "description": ""
+  },
+  "Eu9YTR": {
+    "defaultMessage": "Neighborhood",
+    "description": ""
+  },
+  "uLhyzF": {
+    "defaultMessage": "Neighborhood Nest",
+    "description": ""
+  },
+  "klCR1I": {
+    "defaultMessage": "House number and street",
+    "description": ""
+  },
+  "_CWZLd": {
+    "defaultMessage": "Add",
+    "description": ""
+  },
+  "_FUpwy": {
+    "defaultMessage": "Change",
+    "description": ""
+  },
+  "1bLI8Q": {
+    "defaultMessage": "Select a delivery address",
+    "description": ""
+  },
+  "ToqzfH": {
+    "defaultMessage": "BIPBIP - Buy Goods Online",
+    "description": ""
+  },
+  "XUTN_h": {
+    "defaultMessage": "CUSTOMER CARE",
+    "description": "CUSTOMER CARE"
+  },
+  "t9c8wu": {
+    "defaultMessage": "About BIPBIP",
+    "description": ""
+  },
+  "U7J8tY": {
+    "defaultMessage": "Certificate",
+    "description": ""
+  },
+  "Bhf-1U": {
+    "defaultMessage": "GENERAL HOUSEHOLD PRODUCTS TRADE COMPANY LIMITED\n163 Phan Dang Luu",
+    "description": ""
+  },
+  "zmFK0i": {
+    "defaultMessage": "Notified the Ministry of Industry and Trade",
+    "description": ""
+  },
+  "GU6kdP": {
+    "defaultMessage": "DOWNLOAD BIPBIP APP NOW",
+    "description": ""
+  },
+  "bY2JXH": {
+    "defaultMessage": "©2021 BipBip",
+    "description": ""
+  },
+  "U54zrZ": {
+    "defaultMessage": "You have successfully signed out",
+    "description": ""
+  },
+  "IVt2ak": {
+    "defaultMessage": "Error!",
+    "description": ""
+  },
+  "I_xY4L": {
+    "defaultMessage": "Logout",
+    "description": ""
+  },
+  "8_Bhk7": {
+    "defaultMessage": "Hi! What are you looking for today?",
+    "description": ""
+  },
+  "ljP4GY": {
+    "defaultMessage": "Recent Search",
+    "description": ""
+  },
+  "hUdx9v": {
+    "defaultMessage": "You have no recent searches",
+    "description": ""
+  },
+  "gswg9A": {
+    "defaultMessage": "Suggestion for you",
+    "description": ""
+  },
+  "8F_ITG": {
+    "defaultMessage": "View More",
+    "description": ""
+  },
+  "yi24WM": {
+    "defaultMessage": "Please enter search",
+    "description": ""
+  },
+  "ETvjC2": {
+    "defaultMessage": "Message",
+    "description": ""
+  },
+  "j6zSEQ": {
+    "defaultMessage": "Login",
+    "description": ""
+  },
+  "78pQtK": {
+    "defaultMessage": "Note",
+    "description": ""
+  },
+  "buVi4g": {
+    "defaultMessage": "Are you sure to delete this item?",
+    "description": ""
+  },
+  "9BYcco": {
+    "defaultMessage": "Back",
+    "description": ""
+  },
+  "WlUf4f": {
+    "defaultMessage": "Continue",
+    "description": ""
+  },
+  "R3w3rz": {
+    "defaultMessage": "EXP:",
+    "description": ""
+  },
+  "XszH3c": {
+    "defaultMessage": "Using",
+    "description": ""
+  },
+  "FP32eM": {
+    "defaultMessage": "Cancel",
+    "description": ""
+  },
+  "IYzY7I": {
+    "defaultMessage": "Use now",
+    "description": ""
+  },
+  "aF4wuM": {
+    "defaultMessage": "Cancel use",
+    "description": ""
+  },
+  "zTxUXJ": {
+    "defaultMessage": "CONDITIONS APPLY",
+    "description": ""
+  },
+  "NnEGbl": {
+    "defaultMessage": "No conditions apply.",
+    "description": ""
+  },
+  "WKNtNT": {
+    "defaultMessage": "Cart is empty",
+    "description": ""
+  },
+  "6SUb-p": {
+    "defaultMessage": "Update",
+    "description": ""
+  },
+  "2le5wm": {
+    "defaultMessage": "Product is out of stock",
+    "description": ""
+  },
+  "g4DSjC": {
+    "defaultMessage": "Delete product",
+    "description": ""
+  },
+  "EfT_Ci": {
+    "defaultMessage": "Voucher Code",
+    "description": ""
+  },
+  "ldyax1": {
+    "defaultMessage": "Apply",
+    "description": ""
+  },
+  "yd8i2C": {
+    "defaultMessage": "Your offer",
+    "description": ""
+  },
+  "WTnr6W": {
+    "defaultMessage": "Added success!",
+    "description": ""
+  },
+  "ICAuAI": {
+    "defaultMessage": "An error occurred!",
+    "description": ""
+  },
+  "YFCScm": {
+    "defaultMessage": "({string}) already exists",
+    "description": ""
+  },
+  "BKz32a": {
+    "defaultMessage": "Create favorites",
+    "description": ""
+  },
+  "mNDumr": {
+    "defaultMessage": "Edit favorites",
+    "description": ""
+  },
+  "ZDKVvm": {
+    "defaultMessage": "Update",
+    "description": ""
+  },
+  "ttwON5": {
+    "defaultMessage": "Create New",
+    "description": ""
+  },
+  "q6We0K": {
+    "defaultMessage": "Category Name",
+    "description": ""
+  },
+  "oXJqtZ": {
+    "defaultMessage": "From date",
+    "description": ""
+  },
+  "I-u55s": {
+    "defaultMessage": "Repeat",
+    "description": ""
+  },
+  "1TQMRn": {
+    "defaultMessage": "Product",
+    "description": ""
+  },
+  "qzKaLV": {
+    "defaultMessage": "Add Product",
+    "description": ""
+  },
+  "WW5Y12": {
+    "defaultMessage": "Search for products",
+    "description": ""
+  },
+  "LcsKYY": {
+    "defaultMessage": "No products found!",
+    "description": ""
+  },
+  "kKprfH": {
+    "defaultMessage": "Add Product",
+    "description": ""
+  },
+  "Sv33wD": {
+    "defaultMessage": "Understood",
+    "description": ""
+  },
+  "apq2RJ": {
+    "defaultMessage": "New message received",
+    "description": ""
+  },
+  "TqOSzq": {
+    "defaultMessage": "View All",
+    "description": ""
+  },
+  "gFm47m": {
+    "defaultMessage": "The supermarket address has changed",
+    "description": ""
+  },
+  "oYYURA": {
+    "defaultMessage": "Back",
+    "description": ""
+  },
+  "eKUsDq": {
+    "defaultMessage": "Confirm",
+    "description": ""
+  },
+  "sx37We": {
+    "defaultMessage": "Cart will be emptied",
+    "description": ""
+  },
+  "6aloCb": {
+    "defaultMessage": "Please select your full address information",
+    "description": ""
+  },
+  "X65WxU": {
+    "defaultMessage": "You have updated your location",
+    "description": ""
+  },
+  "g54Dkl": {
+    "defaultMessage": "Select a purchase location",
+    "description": ""
+  },
+  "9nFFQZ": {
+    "defaultMessage": "Select a delivery district/district",
+    "description": ""
+  },
+  "fBsYxF": {
+    "defaultMessage": "Select City",
+    "description": ""
+  },
+  "3LnBAU": {
+    "defaultMessage": "Select District/District",
+    "description": ""
+  },
+  "BQuyQd": {
+    "defaultMessage": "BipBip will base this selection to display the appropriate product",
+    "description": ""
+  },
+  "Litkqm": {
+    "defaultMessage": "Confirm",
+    "description": ""
+  },
+  "DQN1fb": {
+    "defaultMessage": "No",
+    "description": ""
+  },
+  "U54zrO": {
+    "defaultMessage": "Do you want to log out?",
+    "description": ""
+  },
+  "9qWap0": {
+    "defaultMessage": "Currently no products",
+    "description": ""
+  },
+  "McL3Aw": {
+    "defaultMessage": "All",
+    "description": ""
+  },
+  "l1c4Pk": {
+    "defaultMessage": "Search results for ({keyword})",
+    "description": ""
+  },
+  "aBj7vB": {
+    "defaultMessage": "Your phone number",
+    "description": ""
+  },
+  "6QWkRe": {
+    "defaultMessage": "Confirm",
+    "description": ""
+  },
+  "GZthsQ": {
+    "defaultMessage": "Send code back to ({phone})",
+    "description": ""
+  },
+  "D7HupA": {
+    "defaultMessage": "Authentication code sent to",
+    "description": ""
+  },
+  "M_5rKD": {
+    "defaultMessage": "Number of retries: ({count})",
+    "description": ""
+  },
+  "LE0pIV": {
+    "defaultMessage": "Authentication code has expired",
+    "description": ""
+  },
+  "xRilQ-": {
+    "defaultMessage": "Authentication token will expire later",
+    "description": ""
+  },
+  "iPqn1W": {
+    "defaultMessage": "Login",
+    "description": ""
+  },
+  "ffykus": {
+    "defaultMessage": "Resend authentication code",
+    "description": ""
+  },
+  "78pQtX": {
+    "defaultMessage": "You are not old enough for this function",
+    "description": "rejectConfirm18"
+  },
+  "AsbyPb": {
+    "defaultMessage": "An error occurred",
+    "description": ""
+  },
+  "titleCart": {
+    "defaultMessage": "Cart ({number})",
+    "description": "Title: Cart"
+  },
+  "-BEER": {
+    "defaultMessage": "Order ID: ",
+    "description": ""
+  },
+  "uQJAm0": {
+    "defaultMessage": "Receiving phone number",
+    "description": ""
+  },
+  "cCjScr": {
+    "defaultMessage": "Delivery",
+    "description": ""
+  },
+  "ue_MCa": {
+    "defaultMessage": "Pick up location & time",
+    "description": ""
+  },
+  "2is2T_": {
+    "defaultMessage": "Shipping address",
+    "description": ""
+  },
+  "04lL6_": {
+    "defaultMessage": "Pick up time",
+    "description": ""
+  },
+  "CuUTdU": {
+    "defaultMessage": "Date",
+    "description": ""
+  },
+  "hFtxeh": {
+    "defaultMessage": "See directions",
+    "description": ""
+  },
+  "EG3YJZ": {
+    "defaultMessage": "Please notify us of any changes to yours by calling:",
+    "description": ""
+  },
+  "04tSVI": {
+    "defaultMessage": "Call 1900 1234",
+    "description": ""
+  },
+  "9wAGrs": {
+    "defaultMessage": "You have successfully deleted",
+    "description": ""
+  },
+  "eqM8vP": {
+    "defaultMessage": "Create new list",
+    "description": ""
+  },
+  "VtniuG": {
+    "defaultMessage": "({number}) products",
+    "description": ""
+  },
+  "10oaXG": {
+    "defaultMessage": "You have successfully added a product",
+    "description": ""
+  },
+  "v00fKa": {
+    "defaultMessage": "The product already exists. Please choose another product",
+    "description": ""
+  },
+  "zGPdwa": {
+    "defaultMessage": "Favorite products",
+    "description": ""
+  },
+  "7vpvvG": {
+    "defaultMessage": "/Bag",
+    "description": ""
+  },
+  "ItoN0Q": {
+    "defaultMessage": "Currently no products",
+    "description": ""
+  },
+  "-i5imR": {
+    "defaultMessage": "Add Product",
+    "description": ""
+  },
+  "A8Z2_N": {
+    "defaultMessage": "Search for products in favorites",
+    "description": ""
+  },
+  "m81H7i": {
+    "defaultMessage": "Search",
+    "description": ""
+  },
+  "KYZRlL": {
+    "defaultMessage": "Edit",
+    "description": ""
+  },
+  "GJs4if": {
+    "defaultMessage": "Delete",
+    "description": ""
+  },
+  "gI3Cx5": {
+    "defaultMessage": "Buy Now",
+    "description": ""
+  },
+  "homeSuggest": {
+    "defaultMessage": "Quick Suggestions for You",
+    "description": "Quick recommendation for you"
+  },
+  "yhIjb8": {
+    "defaultMessage": "Login",
+    "description": ""
+  },
+  "snQZMQ": {
+    "defaultMessage": "View order details",
+    "description": ""
+  },
+  "cC10_N": {
+    "defaultMessage": "You currently have no notifications",
+    "description": ""
+  },
+  "sIIkS-": {
+    "defaultMessage": "Management Orders",
+    "description": ""
+  },
+  "YihVDH": {
+    "defaultMessage": "Please wait...",
+    "description": ""
+  },
+  "uCJTEo": {
+    "defaultMessage": "({number}) is empty",
+    "description": ""
+  },
+  "l6Fd6a": {
+    "defaultMessage": "Sold ({number})",
+    "description": ""
+  },
+  "1hF3CP": {
+    "defaultMessage": "Buy Now",
+    "description": ""
+  },
+  "ksMM6J": {
+    "defaultMessage": "Packaging",
+    "description": ""
+  },
+  "x6loFG": {
+    "defaultMessage": "Update",
+    "description": ""
+  },
+  "R-Xef0": {
+    "defaultMessage": "Updated account information.",
+    "description": ""
+  },
+  "XRmXF2": {
+    "defaultMessage": "We have updated your account information for you.",
+    "description": ""
+  },
+  "YP4Rd5": {
+    "defaultMessage": "Invalid",
+    "description": ""
+  },
+  "d9bsQy": {
+    "defaultMessage": "The email you entered is not valid",
+    "description": ""
+  },
+  "Ktcnqr": {
+    "defaultMessage": "Account Information",
+    "description": ""
+  },
+  "jJjZKS": {
+    "defaultMessage": "Gender",
+    "description": ""
+  },
+  "5Vd6Hs": {
+    "defaultMessage": "Select a delivery method",
+    "description": ""
+  },
+  "qtg2xb": {
+    "defaultMessage": "Delivery",
+    "description": ""
+  },
+  "gNPKMg": {
+    "defaultMessage": "Actively convenient to receive goods at:",
+    "description": ""
+  },
+  "7T-T81": {
+    "defaultMessage": "Select payment method",
+    "description": ""
+  },
+  "DbVZjh": {
+    "defaultMessage": "Export company invoice",
+    "description": ""
+  },
+  "b_cwec": {
+    "defaultMessage": "View order information",
+    "description": ""
+  },
+  "p3PZdG": {
+    "defaultMessage": "Purchase ({number})",
+    "description": ""
+  },
+  "category": {
+    "defaultMessage": "Category",
+    "description": ""
+  },
+  "guideline": {
+    "defaultMessage": "Instructions for purchase & payment",
+    "description": ""
+  },
+  "faq": {
+    "defaultMessage": "Frequently asked questions",
+    "description": ""
+  },
+  "terms_of_use": {
+    "defaultMessage": "Terms of use",
+    "description": ""
+  },
+  "privacy_policy": {
+    "defaultMessage": "Privacy Policy",
+    "description": ""
+  },
+  "shipping_policy": {
+    "defaultMessage": "Shipping Policy",
+    "description": ""
+  },
+  "return_policy": {
+    "defaultMessage": "Return Policy",
+    "description": ""
+  },
+  "addToCart": {
+    "defaultMessage": "Add to cart",
+    "description": ""
+  },
+  "infoAccount": {
+    "defaultMessage": "Account Information",
+    "description": ""
+  },
+  "notification": {
+    "defaultMessage": "Notification",
+    "description": ""
+  },
+  "orderManagement": {
+    "defaultMessage": "Management Orders",
+    "description": ""
+  },
+  "productFavorite": {
+    "defaultMessage": "Favorite product",
+    "description": ""
+  },
+  "jJjZKT": {
+    "defaultMessage": "First and last name",
+    "description": ""
+  },
+  "jJjZKL": {
+    "defaultMessage": "Date of birth",
+    "description": ""
+  },
+  "newOrder": {
+    "defaultMessage": "Processing Orders",
+    "description": ""
+  },
+  "finishOrder": {
+    "defaultMessage": "Completed Orders",
+    "description": ""
+  },
+  "voted": {
+    "defaultMessage": "Rated Orders",
+    "description": ""
+  },
+  "dateCreate": {
+    "defaultMessage": "Date Created",
+    "description": ""
+  },
+  "codeOrder": {
+    "defaultMessage": "Order ID",
+    "description": ""
+  },
+  "location": {
+    "defaultMessage": "Location",
+    "description": ""
+  },
+  "timePickUp": {
+    "defaultMessage": "Pick up time",
+    "description": ""
+  },
+  "money": {
+    "defaultMessage": "To be paid",
+    "description": ""
+  },
+  "orderStatus": {
+    "defaultMessage": "Order Status",
+    "description": ""
+  },
+  "2wd2Xx": {
+    "defaultMessage": "Your shopping cart is empty",
+    "description": ""
+  },
+  "Bh9_OF": {
+    "defaultMessage": "Note",
+    "description": ""
+  },
+  "B_A6UF": {
+    "defaultMessage": "Save",
+    "description": ""
+  }
+}

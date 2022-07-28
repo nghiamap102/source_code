@@ -1,0 +1,85 @@
+
+.d_fl_btw {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.d_fl_center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.userSection {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding-top: 10px;
+}
+
+.avatar {
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    overflow: hidden;
+    margin-right: 15px;
+}
+
+
+.cart, .search {
+    padding: 0px 5px;
+}
+
+.search {
+    padding-right: 15px;
+}
+.overlay {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: var(--black);
+    opacity: 0.5;
+}
+.content{
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    color: var(--white);
+
+}
+.content p {
+    padding-top: 10px;
+    font-weight: 600;
+    font-size: 15px;
+}
+.across{
+    padding: 30px;
+}
+
+.heading {
+    font-weight: 600;
+    font-size: 17px;
+    line-height: 20px;
+    padding: 15px 0px;
+    color: var(--black);
+}
+.more{
+    position: absolute;
+    bottom: 0;
+    left: 46%;
+    background-color: var(--orange);
+    padding: 3px 4px;
+    border-radius: 50%;
+}
+

@@ -1,0 +1,84 @@
+{
+    "recipes" : [
+        {
+            "content" : "2 boneless, skinless chicken breasts"
+        }
+    ],
+    "imgCmt" : [
+        {
+            "src" : "/images/recipesdetail/cmt1.png",
+            "alt" : "Picture"
+        },
+        {
+            "src" : "/images/recipesdetail/cmt2.png",
+            "alt" : "Picture"
+        },
+        {
+            "src" : "/images/recipesdetail/cmt3.png",
+            "alt" : "Picture"
+        },
+        {
+            "src" : "/images/recipesdetail/cmt4.png",
+            "alt" : "Picture"
+        }
+    ],
+    "tag" : [
+        {
+            "content" : "Chicken"
+        },
+        {
+            "content" : "Fresh"
+        },
+        {
+            "content" : "Pot"
+        },
+        {
+            "content" : "Instant"
+        },
+        {
+            "content" : "Minimal"
+        }
+    ],
+    "recipesContent" : [
+        {
+            "content" : "2 boneless, skinless chicken breasts",
+            "more" : true
+        },
+        {
+            "content" : "2 boneless, skinless chicken breasts",
+            "more" : false
+        },
+        {
+            "content" : "2 boneless, skinless chicken breasts",
+            "more" : true
+        },
+        {
+            "content" : "2 boneless, skinless chicken breasts",
+            "more" : true
+        },
+        {
+            "content" : "2 boneless, skinless chicken breasts",
+            "more" : true
+        },
+        {
+            "content" : "2 boneless, skinless chicken breasts",
+            "more" : false
+        },
+        {
+            "content" : "2 boneless, skinless chicken breasts",
+            "more" : false
+        },
+        {
+            "content" : "2 boneless, skinless chicken breasts",
+            "more" : true
+        },
+        {
+            "content" : "2 boneless, skinless chicken breasts",
+            "more" : true
+        },
+        {
+            "content" : "2 boneless, skinless chicken breasts",
+            "more" : true
+        }
+    ]
+}

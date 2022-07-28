@@ -1,0 +1,37 @@
+.tips {
+    border-top: solid 1px var(--whiteGray)
+}
+.title {
+    margin-top: 27px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.textArea {
+    background: var(--lightGray);
+    border-radius: 5px;
+    height: 250px;
+    width: -webkit-fill-available;
+    padding: 14px 16px;
+}
+
+.buttonOrange {
+    margin-top: 25px;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: var(--white);
+    background-color: var(--orange) !important;
+    width: 240px !important;
+    height: 60px !important;
+}
+
+.boxReviews {
+    border: 1px solid var(--whiteGray);
+    box-sizing: border-box;
+    border-radius: 9px;
+    padding: 19px;
+}
+

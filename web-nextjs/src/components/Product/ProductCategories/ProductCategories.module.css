@@ -1,0 +1,8 @@
+.grid {
+  height: calc((100% - 16px) / 2);
+
+  /* Center slide text vertically */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

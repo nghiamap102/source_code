@@ -1,0 +1,94 @@
+
+.displayFlexCenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+
+.displayFlexStart {
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    position: relative;
+}
+
+.avatarWrapper {
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.item:not(:first-child) {
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 12px;
+    padding-left: 12px;
+}
+
+.item p {
+    padding: 0px 8px;
+}
+
+
+
+.title {
+    font-weight: 600;
+font-size: 24px;
+line-height: 35px;
+}
+
+.titleSmall {
+    font-size: 12px;
+    font-weight: 700;
+    line-height: 14px;
+}
+
+.itemTag {
+    background-color: var(--orange);
+    padding: 5px 25px;
+    margin-left: 8px;
+    border-radius: 4px;
+}
+
+.itemTag p {
+    color: var(--white);
+}
+
+.text {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+}
+
+.nameUser {
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+}
+
+.boxTag {
+    display: flex;
+    align-items: center;
+}
+
+.textArea {
+    background: var(--lightGray);
+    border-radius: 5px;
+    width: -webkit-fill-available;
+    padding: 14px 16px;
+    line-height: inherit;
+    border-radius: 5px;
+}
+
+.buttonOrange {
+    margin-top: 25px;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: var(--white);
+    background-color: var(--orange) !important;
+    width: 240px !important;
+    height: 60px !important;
+}
+

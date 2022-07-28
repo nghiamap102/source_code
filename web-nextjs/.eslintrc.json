@@ -1,0 +1,12 @@
+{
+  "extends": ["eslint:recommended", "next", "prettier"],
+  "rules": {
+    "no-unused-vars": "warn",
+    "react/display-name": "off",
+    "no-empty": "off",
+    "react/no-children-prop": "off",
+    "react/jsx-key": "off",
+    "no-empty-pattern": "off",
+    "@next/next/no-document-import-in-page": "off"
+  }
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "name": "Cook",
+    "navigationLink": "https://www.figma.com/",
+    "subNavigations": [
+      {
+        "name": "Courses",
+        "navigationLink": "https://www.figma.com/"
+      },
+      {
+        "name": "Methods",
+        "navigationLink": "https://www.figma.com/"
+      },
+      {
+        "name": "Cuisine",
+        "navigationLink": "https://www.figma.com/"
+      },
+      {
+        "name": "Seasonal",
+        "navigationLink": "https://www.figma.com/"
+      },
+      {
+        "name": "Diet Based",
+        "navigationLink": "https://www.figma.com/"
+      }
+    ]
+  },
+  {
+    "name": "Discover",
+    "navigationLink": "https://www.figma.com/",
+    "subNavigations": [
+      {
+        "name": "Food Spotting",
+        "navigationLink": "https://www.figma.com/"
+      },
+      {
+        "name": "Movers & Shakers",
+        "navigationLink": "https://www.figma.com/"
+      },
+      {
+        "name": "Thought Pieces",
+        "navigationLink": "https://www.figma.com/"
+      }
+    ]
+  },
+  {
+    "name": "Connect",
+    "navigationLink": "https://www.figma.com/",
+    "subNavigations": [
+      {
+        "name": "User Generated Content",
+        "navigationLink": "https://www.figma.com/"
+      },
+      {
+        "name": "Community",
+        "navigationLink": "https://www.figma.com/"
+      },
+      {
+        "name": "Livestream",
+        "navigationLink": "https://www.figma.com/"
+      }
+    ]
+  },
+  {
+    "name": "Shop",
+    "navigationLink": "https://www.figma.com/",
+    "subNavigations": [
+      {
+        "name": "Products",
+        "navigationLink": "https://www.figma.com/"
+      },
+      {
+        "name": "Tools",
+        "navigationLink": "https://www.figma.com/"
+      },
+      {
+        "name": "Appliances",
+        "navigationLink": "https://www.figma.com/"
+      }
+    ]
+  }
+]

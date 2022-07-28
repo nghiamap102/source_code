@@ -1,0 +1,120 @@
+{
+        "name": "Juicy and Tender Pork Tenderloin Roast",
+        "rank": "Beginner",
+        "dateTime": "1/03/2020 - 22:10",
+        "user": {
+            "name":"Alice",
+            "avatar": "/images/recipesdetail/avatar.png",
+            "rank": "Gold member"
+        },
+        "detailsCooking": {
+            "title": "INSTANT POT CHICKEN NACHOS",
+            "time": "30 mins",
+            "cost": "₱24.50",
+            "cookingTime": "1 Hour",
+            "serving": 6
+        },
+        "cookingRecipe": 
+        [{
+            "title" :"2 boneless, skinless chicken breasts",
+            "more": {
+                "productName": "Locally Tamarind My Bell 240mL Alu Can",
+                "productImage": "/images/product/product-card/draft-1.png",
+                "price": "S$29.90",
+                "priceDiscount": "S$49.90"
+            }
+            },
+            {
+                "title" :"4 boneless, skinless chicken thighs",
+                "more": {
+                    "productName": "Locally Tamarind My Bell 240mL Alu Can",
+                    "productImage": "/images/product/product-card/draft-1.png",
+                    "price": "S$29.90",
+                    "priceDiscount": "S$49.90"
+                }
+            },
+            {
+                "title" :"1 cup salsa, homemade or store-bought"
+            },
+            {
+                "title" :"1/2 cup chicken stock"
+            },
+            {
+                "title" :"1 teaspoon chili powder"
+            },
+            {
+                "title" :"1/2 teaspoon ground cumin"
+            },
+            {
+                "title" :"Kosher salt and freshly ground black pepper, to taste"
+            },
+            {
+                "title" :"12 ounces tortilla chips"
+            }],
+        "tag": [
+            {
+                "title" : "Chicken"
+            },
+            {
+                "title" : "Fresh"
+            },
+            {
+                "title" : "Pot"
+            },
+            {
+                "title" : "Instant"
+            },
+            {
+                "title" : "Minimal"
+            }
+        ],
+        "comment": [
+        {
+            "reply": false,
+            "cmt": true,
+            "rank": "New menber",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua? You can change to Thai Fish Sauce"
+        },{
+            "reply": true,
+            "cmt": false,
+            "rank": "New menber",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua? You can change to Thai Fish Sauce"
+        },
+        {
+            "reply": false,
+            "cmt": true,
+            "rank": "New menber",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua? You can change to Thai Fish Sauce"
+        },
+        {
+            "reply": true,
+            "cmt": false,
+            "rank": "New menber",
+            "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua? You can change to Thai Fish Sauce"
+        }
+        ],
+        "review": [
+            {
+                "name": "Ayaka",
+                "rank": "New member",
+                "date": "21.02.2022",
+                "rating": 4,
+                "time": "15:30",
+                "countLike": 3,
+                "cmt": "Good",
+                "imgCmt": []
+            },
+            {
+                "name": "Ayaka",
+                "rank": "New member",
+                "date": "21.02.2022",
+                "time": "15:30",
+                "countLike": 3,
+                "rating": 4,
+                "srcAvatar": "/images/recipesdetail/avatar.png",
+                "imgCmt": [],
+                "cmt": "Lorem ipsum dolor sit amet, consectetur adipiscing elit,sed do eiusmo tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. "
+            }
+        ]
+    
+}

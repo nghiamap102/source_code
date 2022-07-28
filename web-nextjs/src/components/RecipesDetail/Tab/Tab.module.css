@@ -1,0 +1,52 @@
+.tabpanel p {
+    font-size: 12px;
+    line-height: 16px;
+}
+.tablist {
+    display: grid;
+    grid-template-columns: 50% 50%;
+
+}
+
+.tablist button {
+    margin: 0;
+}
+
+.tab {
+    border: 1px solid  var(--whitegray);
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.tablist .tab[aria-selected=true] {
+    color: var(--black);
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    border: 1px solid  var(--whitegray);
+}
+.tabPanel .itemContent {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+.itemContent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0px;
+    border-bottom: 1px solid var(--whitegray);
+}
+
+.icon {
+    width: 20px !important;
+    height: 20px !important;
+    border-radius: 50%;
+    background-color: var(--orange);
+    padding: 5px;
+    color: white !important;
+}
+
+/* chackra-ui */
+.chakra-accordion__item .css-1im7pjd:last-of-type {
+    border-bottom-width: 0px !important;
+}

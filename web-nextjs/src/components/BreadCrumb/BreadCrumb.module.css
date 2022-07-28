@@ -1,0 +1,31 @@
+.breadcrumbs ul {
+  list-style: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 17px 0;
+}
+.breadcrumbs ul li a,
+.breadcrumbs ul li span {
+  color: var(--textSecond);
+  font-style: normal;
+  font-weight: 700;
+  font-size: 0.75rem;
+  line-height: 14.4px;
+  text-decoration: none;
+  text-transform: uppercase;
+}
+.breadcrumbs ul li a:hover {
+  transition-delay: 50ms;
+  transition: 50ms;
+  text-decoration: underline;
+}
+.breadcrumbs ul li:last-child a {
+  color: var(--textDark2);
+}
+
+.breadcrumbs ul li + li:before {
+  color: var(--textSecond);
+  content: ">";
+  font-weight: 600;
+  margin: 0 5px;
+}

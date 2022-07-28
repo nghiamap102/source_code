@@ -1,0 +1,379 @@
+{
+    "carousel": {
+        "results": [
+            {
+                "field_carousel_items": [
+                    {
+                        "field_ci_content_type": {
+                            "selected": [
+                                "recipes"
+                            ],
+                            "options": {
+                                "article": "Article",
+                                "recipes": "Recipes",
+                                "discussion_forum": "Discussion Forum"
+                            }
+                        },
+                        "field_ci_image_desktop": {
+                            "fid": "5",
+                            "uuid": "b6dd92e5-74d8-46de-b9cd-d5a1f0c230a6",
+                            "langcode": "en",
+                            "uid": {
+                                "idp_id": "1"
+                            },
+                            "filename": "about-plan.jpg",
+                            "uri": "public://2022-03/about-plan.jpg",
+                            "filemime": "image/jpeg",
+                            "filesize": "42077",
+                            "status": "1",
+                            "created": "1648618980",
+                            "changed": "1648619004",
+                            "url": "/sites/default/files/2022-03/about-plan.jpg"
+                        },
+                        "field_ci_image_mobile": {
+                            "fid": "5",
+                            "uuid": "b6dd92e5-74d8-46de-b9cd-d5a1f0c230a6",
+                            "langcode": "en",
+                            "uid": {
+                                "idp_id": "1"
+                            },
+                            "filename": "about-plan.jpg",
+                            "uri": "public://2022-03/about-plan.jpg",
+                            "filemime": "image/jpeg",
+                            "filesize": "42077",
+                            "status": "1",
+                            "created": "1648618980",
+                            "changed": "1648619004",
+                            "url": "/sites/default/files/2022-03/about-plan.jpg"
+                        },
+                        "uid": {
+                            "idp_id": "1"
+                        },
+                        "title": "carousel item 1",
+                        "created": "Wed, 03/30/2022 - 05:40"
+                    }
+                ],
+                "field_weight": 2,
+                "title": "carousel item 1",
+                "created": "Wed, 03/30/2022 - 05:40"
+            },
+            {
+                "field_carousel_items": [
+                    {
+                        "field_ci_content_type": {
+                            "selected": [
+                                "recipes"
+                            ],
+                            "options": {
+                                "article": "Article",
+                                "recipes": "Recipes",
+                                "discussion_forum": "Discussion Forum"
+                            }
+                        },
+                        "field_ci_image_desktop": {
+                            "fid": "5",
+                            "uuid": "b6dd92e5-74d8-46de-b9cd-d5a1f0c230a6",
+                            "langcode": "en",
+                            "uid": {
+                                "idp_id": "1"
+                            },
+                            "filename": "about-plan.jpg",
+                            "uri": "public://2022-03/about-plan.jpg",
+                            "filemime": "image/jpeg",
+                            "filesize": "42077",
+                            "status": "1",
+                            "created": "1648618980",
+                            "changed": "1648619004",
+                            "url": "/sites/default/files/2022-03/about-plan.jpg"
+                        },
+                        "field_ci_image_mobile": {
+                            "fid": "5",
+                            "uuid": "b6dd92e5-74d8-46de-b9cd-d5a1f0c230a6",
+                            "langcode": "en",
+                            "uid": {
+                                "idp_id": "1"
+                            },
+                            "filename": "about-plan.jpg",
+                            "uri": "public://2022-03/about-plan.jpg",
+                            "filemime": "image/jpeg",
+                            "filesize": "42077",
+                            "status": "1",
+                            "created": "1648618980",
+                            "changed": "1648619004",
+                            "url": "/sites/default/files/2022-03/about-plan.jpg"
+                        },
+                        "uid": {
+                            "idp_id": "1"
+                        },
+                        "title": "carousel item 1",
+                        "created": "Wed, 03/30/2022 - 05:40"
+                    }
+                ],
+                "field_weight": 3,
+                "title": "carousel item 2",
+                "created": "Wed, 03/30/2022 - 05:40"
+            },
+            {
+                "field_carousel_items": [
+                    {
+                        "field_ci_content_type": {
+                            "selected": [
+                                "recipes"
+                            ],
+                            "options": {
+                                "article": "Article",
+                                "recipes": "Recipes",
+                                "discussion_forum": "Discussion Forum"
+                            }
+                        },
+                        "field_ci_image_desktop": {
+                            "fid": "5",
+                            "uuid": "b6dd92e5-74d8-46de-b9cd-d5a1f0c230a6",
+                            "langcode": "en",
+                            "uid": {
+                                "idp_id": "1"
+                            },
+                            "filename": "about-plan.jpg",
+                            "uri": "public://2022-03/about-plan.jpg",
+                            "filemime": "image/jpeg",
+                            "filesize": "42077",
+                            "status": "1",
+                            "created": "1648618980",
+                            "changed": "1648619004",
+                            "url": "/sites/default/files/2022-03/about-plan.jpg"
+                        },
+                        "field_ci_image_mobile": {
+                            "fid": "5",
+                            "uuid": "b6dd92e5-74d8-46de-b9cd-d5a1f0c230a6",
+                            "langcode": "en",
+                            "uid": {
+                                "idp_id": "1"
+                            },
+                            "filename": "about-plan.jpg",
+                            "uri": "public://2022-03/about-plan.jpg",
+                            "filemime": "image/jpeg",
+                            "filesize": "42077",
+                            "status": "1",
+                            "created": "1648618980",
+                            "changed": "1648619004",
+                            "url": "/sites/default/files/2022-03/about-plan.jpg"
+                        },
+                        "uid": {
+                            "idp_id": "1"
+                        },
+                        "title": "carousel item 1",
+                        "created": "Wed, 03/30/2022 - 05:40"
+                    }
+                ],
+                "field_weight": 3,
+                "title": "carousel item 3",
+                "created": "Wed, 03/30/2022 - 05:40"
+            },
+            {
+                "field_carousel_items": [
+                    {
+                        "field_ci_content_type": {
+                            "selected": [
+                                "recipes"
+                            ],
+                            "options": {
+                                "article": "Article",
+                                "recipes": "Recipes",
+                                "discussion_forum": "Discussion Forum"
+                            }
+                        },
+                        "field_ci_image_desktop": {
+                            "fid": "5",
+                            "uuid": "b6dd92e5-74d8-46de-b9cd-d5a1f0c230a6",
+                            "langcode": "en",
+                            "uid": {
+                                "idp_id": "1"
+                            },
+                            "filename": "about-plan.jpg",
+                            "uri": "public://2022-03/about-plan.jpg",
+                            "filemime": "image/jpeg",
+                            "filesize": "42077",
+                            "status": "1",
+                            "created": "1648618980",
+                            "changed": "1648619004",
+                            "url": "/sites/default/files/2022-03/about-plan.jpg"
+                        },
+                        "field_ci_image_mobile": {
+                            "fid": "5",
+                            "uuid": "b6dd92e5-74d8-46de-b9cd-d5a1f0c230a6",
+                            "langcode": "en",
+                            "uid": {
+                                "idp_id": "1"
+                            },
+                            "filename": "about-plan.jpg",
+                            "uri": "public://2022-03/about-plan.jpg",
+                            "filemime": "image/jpeg",
+                            "filesize": "42077",
+                            "status": "1",
+                            "created": "1648618980",
+                            "changed": "1648619004",
+                            "url": "/sites/default/files/2022-03/about-plan.jpg"
+                        },
+                        "uid": {
+                            "idp_id": "1"
+                        },
+                        "title": "carousel item 1",
+                        "created": "Wed, 03/30/2022 - 05:40"
+                    }
+                ],
+                "field_weight": 4,
+                "title": "carousel item 4",
+                "created": "Wed, 03/30/2022 - 05:40"
+            }
+        ],
+        "pager": {
+            "count": 4,
+            "pages": 1,
+            "items_per_page": 20,
+            "current_page": 0,
+            "next_page": 0
+     }
+    },
+    "more-recipe": {
+        
+    },
+    "recipe-featured": {
+        "results": [
+        {
+            "body": "<p>\"Only widgets that return an array can work with rest facet sources, so if the user has selected another widget, we should point them to their misconfiguration.\"</p>\r\n\r\n<p>I think that's better? If you disagree I don't mind.</p>\r\n",
+            "entity_id": "17",
+            "field_five_start_rating": null,
+            "field_ref_products": null,
+            "field_thumbnail": null,
+            "langcode": "en",
+            "path_alias": "/node/17",
+            "uid": {
+            "uid": "1",
+            "uuid": "09602ff1-46f7-4685-9327-455e2ea795b0",
+            "langcode": "en",
+            "preferred_langcode": "en",
+            "preferred_admin_langcode": null,
+            "name": "cms_admin",
+            "pass": "$S$E1s6r9ISmI6j1PAfZJQvs9/DlyLhosSwlnj/BmP5rdS/kSaZFoq7",
+            "mail": "lap.pham@kyanon.digital",
+            "timezone": "UTC",
+            "status": "1",
+            "created": "1647075974",
+            "changed": "1647076258",
+            "access": "1649843807",
+            "login": "1649820478",
+            "init": "lap.pham@kyanon.digital",
+            "roles": [
+                [
+                
+                ]
+            ],
+            "default_langcode": "1",
+            "idp_id": null,
+            "field_recipe_recommendation": null,
+            "user_picture": null
+            },
+            "title": "Gà chiên nước mắm",
+            "created": "Mon, 03/21/2022 - 04:17"
+        }
+        ],
+        "pager": {
+        "count": 1,
+        "pages": 1,
+        "items_per_page": 6,
+        "current_page": 0,
+        "next_page": 0
+        }
+    },
+    
+    "recipe-detail": 
+            {
+                "body": "<p>\"Only widgets that return an array can work with rest facet sources, so if the user has selected another widget, we should point them to their misconfiguration.\"</p>\r\n\r\n<p>I think that's better? If you disagree I don't mind.</p>\r\n",
+                "field_category": {
+                    "description": "<p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>\r\n",
+                    "entity_id": "12",
+                    "langcode": "en",
+                    "path_alias_taxonomy": "/taxonomy/term/12",
+                    "name": "sunny day"
+                },
+                "field_cooking_method": {
+                    "description": "<p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>\r\n",
+                    "entity_id": "4",
+                    "langcode": "en",
+                    "path_alias_taxonomy": "/example/boiled",
+                    "name": "Boiled"
+                },
+                "field_cooking_time": {
+                    "description": "<p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>\r\n",
+                    "entity_id": "5",
+                    "langcode": "en",
+                    "path_alias_taxonomy": "/example/12-30",
+                    "name": "15-30 mins"
+                },
+                "field_cuisine_types": {
+                    "description": "<p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>\r\n",
+                    "entity_id": "6",
+                    "langcode": "en",
+                    "path_alias_taxonomy": "/vietname",
+                    "name": "Vietnamese"
+                },
+                "field_featured_recipe": 1,
+                "field_key_ingredients": [
+                    {
+                        "description": null,
+                        "entity_id": "2",
+                        "langcode": "en",
+                        "path_alias_taxonomy": "/taxonomy/term/2",
+                        "name": "Chicken"
+                    }
+                ],
+                "field_meal_type": [
+                    {
+                        "description": "<p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>\r\n",
+                        "entity_id": "8",
+                        "langcode": "en",
+                        "path_alias_taxonomy": "/dessert",
+                        "name": "Dessert"
+                    }
+                ],
+                "field_mealtime": [
+                    {
+                        "description": "<p><strong>Lorem Ipsum</strong>&nbsp;is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s,</p>\r\n",
+                        "entity_id": "9",
+                        "langcode": "en",
+                        "path_alias_taxonomy": "/lunch",
+                        "name": "Lunch"
+                    }
+                ],
+                "field_ref_products": null,
+                "field_review": null,
+                "field_special_tags": null,
+                "field_thumbnail": null,
+                "uid": {
+                    "uid": "1",
+                    "uuid": "09602ff1-46f7-4685-9327-455e2ea795b0",
+                    "langcode": "en",
+                    "preferred_langcode": "en",
+                    "preferred_admin_langcode": null,
+                    "name": "cms_admin",
+                    "pass": "$S$E1s6r9ISmI6j1PAfZJQvs9/DlyLhosSwlnj/BmP5rdS/kSaZFoq7",
+                    "mail": "lap.pham@kyanon.digital",
+                    "timezone": "UTC",
+                    "status": "1",
+                    "created": "1647075974",
+                    "changed": "1647076258",
+                    "access": "1649820863",
+                    "login": "1649820478",
+                    "init": "lap.pham@kyanon.digital",
+                    "roles": [
+                        []
+                    ],
+                    "default_langcode": "1",
+                    "idp_id": null,
+                    "field_recipe_recommendation": null,
+                    "user_picture": null
+                },
+                "title": "Test recipe",
+                "created": "Mon, 03/21/2022 - 04:17"
+            }
+        }

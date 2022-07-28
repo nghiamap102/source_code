@@ -1,0 +1,8 @@
+export const HOME_URL = '/'
+export const LOGIN_URL = '/login'
+export const REGISTER_URL = '/register'
+export const RECIPES_URL = '/recipes'
+export const ARTICLES_URL = '/articles'
+export const DISCUSSION_URL = '/discussion'
+export const SHOP_URL = '/shop'
+export const EVENTS_URL = '/events'

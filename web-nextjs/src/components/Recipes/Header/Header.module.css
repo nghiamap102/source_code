@@ -1,0 +1,33 @@
+
+
+.d_fl_btw{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.d_fl_center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header{
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    position: absolute;
+    top: 0px;
+    z-index: 10;
+    padding: 13px 15px;
+    width: 100%;
+    color: var(--white);
+}
+
+.headerInner{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.icon{
+    padding: 0px 3px;
+}

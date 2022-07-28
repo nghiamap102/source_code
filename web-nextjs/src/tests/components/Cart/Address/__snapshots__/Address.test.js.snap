@@ -1,0 +1,41 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Cart Address /> snapshots render Address default No Props 1`] = `
+<div>
+  <div
+    class="css-p5yrp3"
+  >
+    <div
+      class="css-gg4vpm"
+    >
+      <h6
+        class="chakra-heading css-nvbdla"
+      >
+        Địa chỉ giao hàng
+      </h6>
+      <button
+        class="chakra-button css-1o14pf6"
+        type="button"
+      >
+        Thay đổi
+      </button>
+    </div>
+    <div
+      class="css-gchom6"
+    >
+      <p
+        class="chakra-text css-0"
+      >
+        Chưa có thông tin
+      </p>
+    </div>
+    <p
+      class="chakra-text css-0"
+    >
+      kyanon digital
+    </p>
+  </div>
+</div>
+`;
+
+exports[`<Cart Address /> snapshots render with props 1`] = `<div />`;

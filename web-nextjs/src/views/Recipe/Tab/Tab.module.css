@@ -1,0 +1,126 @@
+.tabpanel p {
+    font-size: 12px;
+    line-height: 16px;
+}
+.tablist {
+    display: grid;
+    grid-template-columns: 50% 50%;
+
+}
+
+.tablist button {
+    margin: 0;
+}
+
+.boxTab {
+    border: 1px solid  var(--whiteGray);
+    border-radius: 8px;
+}
+
+.tab {
+    border: 1px solid  var(--whiteGray);
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.tablist .tab[aria-selected=true] {
+    color: var(--black);
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    border: 1px solid  var(--whiteGray);
+}
+.tabPanel .itemContent {
+    border-bottom: none;
+    padding-bottom: 0;
+}
+.itemContent{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 15px 0px;
+    border-bottom: 1px solid var(--whiteGray);
+}
+
+.icon {
+    width: 20px !important;
+    height: 20px !important;
+    border-radius: 50%;
+    background-color: var(--orange);
+    padding: 5px;
+    color: white !important;
+}
+
+/* chackra-ui */
+.chakra-accordion__item .css-1im7pjd:last-of-type {
+    border-bottom-width: 0px !important;
+}
+
+/* details */
+.image  {
+    position: relative;
+    display: flex;
+    align-items: center;
+    width: 200px;
+  }
+  
+.wishlist {
+    position: absolute;
+    top: 12px;
+    right: 12px;
+    width: 18px;
+}
+
+.content {
+    line-height: 18px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+
+    font-size: 15px;
+    font-weight: 600;
+}
+
+.size {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 16px;
+    border: none;
+    padding: 0;
+}
+
+.price {
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: var(--textSecond);
+    margin: 4px 0px;
+}
+
+.discount {
+    font-weight: 500;
+    text-decoration-line: line-through;
+    margin-right: 0.25rem;
+}
+
+.boxItemMake {
+    border: none !important;
+}
+
+.boxItemMake button {
+    background: var(--lightGray);
+    margin-bottom: 10px
+}
+
+.boxItemMake button[aria-expanded="true"] {
+    background-color: var(--orange);
+    color: var(--white);
+}
+
+.numMake {
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 23px;
+}

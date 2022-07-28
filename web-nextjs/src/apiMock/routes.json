@@ -1,0 +1,10 @@
+{
+    "/api/en/carousel": "/carousel",
+    "/api/en/recipe/more-recipe": "/more-recipe",
+    "/api/en/recipe/top-rating": "/top-rating",
+    "/api/en/recipe/category": "/category",
+    "/api/en/recipe/recommend/anonymous": "/recommend/anonymous",
+    "/api/en/recipe/recommend/authenticated": "/recommen/authenticated",
+    "/api/en/recipe/featured": "/featured",
+    "/api/en/recipe/:id": "/recipe-detail"
+}

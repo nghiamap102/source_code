@@ -1,0 +1,78 @@
+{
+  "sort_by": [
+    {
+      "id": 1,
+      "type": "sort",
+      "code": "ASC",
+      "name": "A-Z",
+      "selected": true,
+      "subList": null
+    },
+    {
+      "id": 2,
+      "type": "sort",
+      "code": "DESC",
+      "name": "Z-A",
+      "selected": false,
+      "subList": null
+    },
+    {
+      "id": 3,
+      "type": "sort",
+      "code": "vote_average",
+      "name": "Highest Rating",
+      "selected": false,
+      "subList": null
+    },
+    {
+      "id": 4,
+      "type": "sort",
+      "code": "vote_count",
+      "name": "Most Reviews",
+      "selected": false,
+      "subList": null
+    },
+    {
+      "id": 5,
+      "type": "sort",
+      "code": "has_video_photo",
+      "name": "With video/photo",
+      "selected": false,
+      "subList": null
+    },
+    {
+      "id": 6,
+      "type": "sort",
+      "code": "cockTime",
+      "name": "Prep + Cook time",
+      "selected": false,
+      "subList": null
+    }
+  ],
+  "items_per_page":[
+    {
+      "id": 1,
+      "type": "items_per_page",
+      "code": "20",
+      "name": "20",
+      "selected": false,
+      "subList": null
+    },
+    {
+      "id": 2,
+      "type": "items_per_page",
+      "code": "40",
+      "name": "40",
+      "selected": false,
+      "subList": null
+    },
+    {
+      "id": 3,
+      "type": "items_per_page",
+      "code": "60",
+      "name": "60",
+      "selected": true,
+      "subList": null
+    }
+  ]
+}

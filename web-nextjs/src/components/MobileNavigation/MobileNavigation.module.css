@@ -1,0 +1,30 @@
+.navigation {
+  background: var(--white);
+  box-shadow: 0px -4px 10px var(--black-rgba-1);
+  border-radius: 50px;
+  position: fixed;
+  bottom: 0;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: row;
+  z-index: 10;
+  padding: 5px 15px;
+}
+
+.icon {
+  height: 24px;
+  margin: auto;
+  width: 24px;
+}
+.item {
+  padding: 5px 14px 2px;
+}
+.item p {
+  padding-top: 5px;
+  font-size: 10px;
+  line-height: 12px;
+  font-weight: 400;
+}

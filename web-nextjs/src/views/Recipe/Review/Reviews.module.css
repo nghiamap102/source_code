@@ -1,0 +1,87 @@
+.reviews {
+    border-top: 1px solid var(--whiteGray);
+    margin-top: 46px;
+    margin-bottom: 76px;
+}
+
+.title {
+    margin-top: 27px;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+}
+
+.boxAddPhoto {
+    height: 60px;
+    left: 147px;
+    top: 2047px;
+    background: var(--orange);
+    border-radius: 5px;
+    align-items: center;
+    justify-content: space-between;
+    padding: 19px 16px;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    color: var(--white);
+}
+
+.textArea {
+    margin-top: 18px;
+    background: var(--lightGray);
+    border-radius: 5px;
+    height: 250px;
+    width: -webkit-fill-available;
+    padding: 14px 16px;
+}
+
+.buttonOrange {
+    margin-top: 25px;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: var(--white);
+    background-color: var(--orange) !important;
+    width: 240px !important;
+    height: 60px !important;
+}
+
+.textAddPhoto {
+    margin-left: 11px;
+}
+
+.boxReviews {
+    border: 1px solid var(--whiteGray);
+    box-sizing: border-box;
+    border-radius: 9px;
+    padding: 19px;
+}
+
+.boxTags {
+    border-bottom: solid 1px var(--whiteGray);
+    padding-bottom: 14px;
+}
+
+.tags {
+    grid-column-gap: 10px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.btnTag {
+    margin-bottom: 5px;
+    display: flex ;
+    flex-direction: row ;
+    justify-content: center ;
+    align-items: center ;
+    width: 121px ;
+    height: 39px ;
+    background: var(--orange) ;
+    border-radius: 5px ;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 18px;
+    color: var(--white);
+}

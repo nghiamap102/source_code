@@ -1,0 +1,29 @@
+:root {
+  --data-column: 2;
+  --gap: 15px;
+}
+input:focus, .chakra-checkbox__control:focus{ 
+  outline: none;
+  box-shadow: none !important;
+}
+input, .chakra-checkbox__control{
+  box-shadow: none !important;
+}
+
+.customCheckBoxField .chakra-checkbox__input, .customCheckBoxField .chakra-checkbox__control{
+  display: none;
+}
+
+.customCheckBoxField .chakra-checkbox__label{
+  margin-left: 0;
+  display: block;
+}
+.customCheckBoxField .chakra-checkbox{
+  display: block;  
+  border: 2px dashed #FFE6CC;
+  padding: 18px 30px;
+  border-radius: 100px;
+}
+.customCheckBoxField .chakra-checkbox[data-checked]{
+  border: 2px solid #FF8300;
+}

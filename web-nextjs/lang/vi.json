@@ -1,0 +1,762 @@
+{
+  "na2RcB": {
+    "defaultMessage": "Địa chỉ giao hàng",
+    "description": ""
+  },
+  "y-uyvD": {
+    "defaultMessage": "Chưa có thông tin",
+    "description": ""
+  },
+  "NsjVLL": {
+    "defaultMessage": "Đơn hàng",
+    "description": ""
+  },
+  "QArPxt": {
+    "defaultMessage": "Tạm tính",
+    "description": ""
+  },
+  "yLfm4P": {
+    "defaultMessage": "Giảm giá",
+    "description": ""
+  },
+  "XmhVX-": {
+    "defaultMessage": "Phí vận chuyển",
+    "description": ""
+  },
+  "fkZGki": {
+    "defaultMessage": "Tổng cộng",
+    "description": ""
+  },
+  "_V1do2": {
+    "defaultMessage": "Đã bao gồm VAT nếu có",
+    "description": ""
+  },
+  "7lzLO2": {
+    "defaultMessage": "Mua hàng ({number})",
+    "description": ""
+  },
+  "jDtc9O": {
+    "defaultMessage": "Mã ưu đãi của bạn",
+    "description": ""
+  },
+  "N6lePu": {
+    "defaultMessage": "Chọn hoặc nhập mã giảm giá",
+    "description": ""
+  },
+  "e1Aw2b": {
+    "defaultMessage": "Mã khuyến mãi",
+    "description": ""
+  },
+  "6vxXsq": {
+    "defaultMessage": "Hiện tại có ({number}) mã",
+    "description": ""
+  },
+  "L8gBxv": {
+    "defaultMessage": "Đơn hàng",
+    "description": ""
+  },
+  "4f8PfK": {
+    "defaultMessage": "Thay đổi",
+    "description": ""
+  },
+  "cUF-JT": {
+    "defaultMessage": "({number}) sản phẩm",
+    "description": ""
+  },
+  "H8yizN": {
+    "defaultMessage": "Vui lòng nhập đủ thông tin",
+    "description": ""
+  },
+  "NLHF05": {
+    "defaultMessage": "Thêm địa chỉ mới",
+    "description": ""
+  },
+  "_7vjPz": {
+    "defaultMessage": "Địa chỉ mới",
+    "description": ""
+  },
+  "xMIyQZ": {
+    "defaultMessage": "Chọn Thành phố",
+    "description": ""
+  },
+  "b-BHr1": {
+    "defaultMessage": "Chọn Quận/Huyện",
+    "description": ""
+  },
+  "XWzmDX": {
+    "defaultMessage": "Chọn Phường/Xã",
+    "description": ""
+  },
+  "hZT23f": {
+    "defaultMessage": "Chung cư",
+    "description": ""
+  },
+  "EFWgJA": {
+    "defaultMessage": "Nhà riêng",
+    "description": ""
+  },
+  "n8hQtC": {
+    "defaultMessage": "Tên chung cư - Tòa Tháp - Căn hộ",
+    "description": ""
+  },
+  "XF2L0y": {
+    "defaultMessage": "Số nhà và đường",
+    "description": ""
+  },
+  "Eu9YTR": {
+    "defaultMessage": "Khu phố",
+    "description": ""
+  },
+  "uLhyzF": {
+    "defaultMessage": "Tổ dân phố",
+    "description": ""
+  },
+  "klCR1I": {
+    "defaultMessage": "Số nhà và đường",
+    "description": ""
+  },
+  "_CWZLd": {
+    "defaultMessage": "Thêm",
+    "description": ""
+  },
+  "_FUpwy": {
+    "defaultMessage": "Thay đổi",
+    "description": ""
+  },
+  "1bLI8Q": {
+    "defaultMessage": "Chọn địa chỉ nhận hàng",
+    "description": ""
+  },
+  "ToqzfH": {
+    "defaultMessage": "BIPBIP - Mua hàng online giá tốt",
+    "description": ""
+  },
+  "XUTN_h": {
+    "defaultMessage": "CHĂM SÓC KHÁCH HÀNG",
+    "description": "CHĂM SÓC KHÁCH HÀNG"
+  },
+  "t9c8wu": {
+    "defaultMessage": "VỀ BIPBIP",
+    "description": ""
+  },
+  "U7J8tY": {
+    "defaultMessage": "Chứng nhận",
+    "description": ""
+  },
+  "Bhf-1U": {
+    "defaultMessage": "CÔNG TY TNHH MỘT THÀNH VIÊN THƯƠNG MẠI HÀNG GIA DỤNG TỔNG HỢP\n163 Phan Đăng Lưu",
+    "description": ""
+  },
+  "zmFK0i": {
+    "defaultMessage": "Đã thông báo bộ công thương",
+    "description": ""
+  },
+  "GU6kdP": {
+    "defaultMessage": "TẢI ỨNG DỤNG BIPBIP NGAY",
+    "description": ""
+  },
+  "bY2JXH": {
+    "defaultMessage": "©2021 BipBip",
+    "description": ""
+  },
+  "U54zrZ": {
+    "defaultMessage": "Bạn đã đăng xuất thành công",
+    "description": ""
+  },
+  "IVt2ak": {
+    "defaultMessage": "Lỗi!",
+    "description": ""
+  },
+  "I_xY4L": {
+    "defaultMessage": "Đăng xuất",
+    "description": ""
+  },
+  "8_Bhk7": {
+    "defaultMessage": "Hi! Bạn tìm gì hôm nay?",
+    "description": ""
+  },
+  "ljP4GY": {
+    "defaultMessage": "Tìm kiếm gần đây",
+    "description": ""
+  },
+  "hUdx9v": {
+    "defaultMessage": "Bạn chưa có tìm kiếm nào gần đây",
+    "description": ""
+  },
+  "gswg9A": {
+    "defaultMessage": "Gợi ý cho bạn",
+    "description": ""
+  },
+  "8F_ITG": {
+    "defaultMessage": "Xem Thêm",
+    "description": ""
+  },
+  "yi24WM": {
+    "defaultMessage": "Xin vui lòng nhập tìm kiếm",
+    "description": ""
+  },
+  "ETvjC2": {
+    "defaultMessage": "Thông báo",
+    "description": ""
+  },
+  "j6zSEQ": {
+    "defaultMessage": "Đăng nhập",
+    "description": ""
+  },
+  "78pQtK": {
+    "defaultMessage": "Lưu ý",
+    "description": ""
+  },
+  "buVi4g": {
+    "defaultMessage": "Bạn có chắc chắn xoá món hàng này?",
+    "description": ""
+  },
+  "9BYcco": {
+    "defaultMessage": "Quay lại",
+    "description": ""
+  },
+  "WlUf4f": {
+    "defaultMessage": "Tiếp tục",
+    "description": ""
+  },
+  "R3w3rz": {
+    "defaultMessage": "HSD:",
+    "description": ""
+  },
+  "XszH3c": {
+    "defaultMessage": "Sử dụng",
+    "description": ""
+  },
+  "FP32eM": {
+    "defaultMessage": "Huỷ",
+    "description": ""
+  },
+  "IYzY7I": {
+    "defaultMessage": "Sử dụng bây giờ",
+    "description": ""
+  },
+  "aF4wuM": {
+    "defaultMessage": "Huỷ sử dụng",
+    "description": ""
+  },
+  "zTxUXJ": {
+    "defaultMessage": "ĐIỀU KIỆN ÁP DỤNG",
+    "description": ""
+  },
+  "NnEGbl": {
+    "defaultMessage": "Không có điều kiện áp dụng.",
+    "description": ""
+  },
+  "WKNtNT": {
+    "defaultMessage": "Giỏ hàng bị trống",
+    "description": ""
+  },
+  "6SUb-p": {
+    "defaultMessage": "Cập nhật",
+    "description": ""
+  },
+  "2le5wm": {
+    "defaultMessage": "Sản phẩm đã hết hàng",
+    "description": ""
+  },
+  "g4DSjC": {
+    "defaultMessage": "Xoá sản phẩm",
+    "description": ""
+  },
+  "EfT_Ci": {
+    "defaultMessage": "Mã Voucher",
+    "description": ""
+  },
+  "ldyax1": {
+    "defaultMessage": "Áp dụng",
+    "description": ""
+  },
+  "yd8i2C": {
+    "defaultMessage": "Ưu đãi của bạn",
+    "description": ""
+  },
+  "WTnr6W": {
+    "defaultMessage": "Thêm thành công!",
+    "description": ""
+  },
+  "ICAuAI": {
+    "defaultMessage": "Có lỗi xảy ra!",
+    "description": ""
+  },
+  "YFCScm": {
+    "defaultMessage": "({string}) đã tồn tại",
+    "description": ""
+  },
+  "BKz32a": {
+    "defaultMessage": "Tạo mục yêu thích",
+    "description": ""
+  },
+  "mNDumr": {
+    "defaultMessage": "Chỉnh sửa mục yêu thích",
+    "description": ""
+  },
+  "ZDKVvm": {
+    "defaultMessage": "Cập nhật",
+    "description": ""
+  },
+  "ttwON5": {
+    "defaultMessage": "Tạo mới",
+    "description": ""
+  },
+  "q6We0K": {
+    "defaultMessage": "Tên danh mục",
+    "description": ""
+  },
+  "oXJqtZ": {
+    "defaultMessage": "Từ ngày",
+    "description": ""
+  },
+  "I-u55s": {
+    "defaultMessage": "Lặp lại",
+    "description": ""
+  },
+  "1TQMRn": {
+    "defaultMessage": "Sản phẩm",
+    "description": ""
+  },
+  "qzKaLV": {
+    "defaultMessage": "Thêm sản phẩm",
+    "description": ""
+  },
+  "WW5Y12": {
+    "defaultMessage": "Tìm kiếm sản phẩm",
+    "description": ""
+  },
+  "LcsKYY": {
+    "defaultMessage": "Không tìm thấy sản phẩm nào!",
+    "description": ""
+  },
+  "kKprfH": {
+    "defaultMessage": "Thêm sản phẩm",
+    "description": ""
+  },
+  "Sv33wD": {
+    "defaultMessage": "Đã Hiểu",
+    "description": ""
+  },
+  "apq2RJ": {
+    "defaultMessage": "Thông báo mới nhận",
+    "description": ""
+  },
+  "TqOSzq": {
+    "defaultMessage": "Xem tất cả",
+    "description": ""
+  },
+  "gFm47m": {
+    "defaultMessage": "Địa chỉ siêu thị đã thay đổi",
+    "description": ""
+  },
+  "oYYURA": {
+    "defaultMessage": "Quay lại",
+    "description": ""
+  },
+  "eKUsDq": {
+    "defaultMessage": "Xác nhận",
+    "description": ""
+  },
+  "sx37We": {
+    "defaultMessage": "Giỏ hàng sẻ được làm trống",
+    "description": ""
+  },
+  "6aloCb": {
+    "defaultMessage": "Xin vui lòng chọn đầy đủ thông tin địa chỉ của bạn",
+    "description": ""
+  },
+  "X65WxU": {
+    "defaultMessage": "Bạn đã cập nhật vị trí của bạn",
+    "description": ""
+  },
+  "g54Dkl": {
+    "defaultMessage": "Chọn địa điểm mua hàng",
+    "description": ""
+  },
+  "9nFFQZ": {
+    "defaultMessage": "Chọn quận/huyện nhận hàng",
+    "description": ""
+  },
+  "fBsYxF": {
+    "defaultMessage": "Chọn Thành phố",
+    "description": ""
+  },
+  "3LnBAU": {
+    "defaultMessage": "Chọn Quận/Huyện",
+    "description": ""
+  },
+  "BQuyQd": {
+    "defaultMessage": "BipBip sẽ căn cứ lựa chọn này để hiển thị sản phẩm phù hợp",
+    "description": ""
+  },
+  "Litkqm": {
+    "defaultMessage": "Xác nhận",
+    "description": ""
+  },
+  "DQN1fb": {
+    "defaultMessage": "Không",
+    "description": ""
+  },
+  "U54zrO": {
+    "defaultMessage": "Bạn có muốn đăng xuất không?",
+    "description": ""
+  },
+  "9qWap0": {
+    "defaultMessage": "Hiện tại không có sản phẩm",
+    "description": ""
+  },
+  "McL3Aw": {
+    "defaultMessage": "Tất cả",
+    "description": ""
+  },
+  "l1c4Pk": {
+    "defaultMessage": "Kết quả tìm kiếm cho ({keyword})",
+    "description": ""
+  },
+  "aBj7vB": {
+    "defaultMessage": "Số điện thoại của bạn",
+    "description": ""
+  },
+  "6QWkRe": {
+    "defaultMessage": "Xác nhận",
+    "description": ""
+  },
+  "GZthsQ": {
+    "defaultMessage": "Đã gửi lại mã vào ({phone})",
+    "description": ""
+  },
+  "D7HupA": {
+    "defaultMessage": "Mã xác thực được gửi đến",
+    "description": ""
+  },
+  "M_5rKD": {
+    "defaultMessage": "Số lần thử lại: ({count})",
+    "description": ""
+  },
+  "LE0pIV": {
+    "defaultMessage": "Mã xác thực đã hết hiệu lực",
+    "description": ""
+  },
+  "xRilQ-": {
+    "defaultMessage": "Mã xác thực sẽ hết hiệu lực sau",
+    "description": ""
+  },
+  "iPqn1W": {
+    "defaultMessage": "Đăng nhập",
+    "description": ""
+  },
+  "ffykus": {
+    "defaultMessage": "Gửi lại mã xác thực",
+    "description": ""
+  },
+  "78pQtX": {
+    "defaultMessage": "Bạn chưa đủ tuổi để thực hiện chức năng này",
+    "description": "rejectConfirm18"
+  },
+  "AsbyPb": {
+    "defaultMessage": "Có lỗi sảy ra",
+    "description": ""
+  },
+  "titleCart": {
+    "defaultMessage": "Giỏ hàng ({number})",
+    "description": "Title: Cart"
+  },
+  "-B--IA": {
+    "defaultMessage": "Mã đơn hàng: ",
+    "description": ""
+  },
+  "uQJAm0": {
+    "defaultMessage": "Số điện thoại nhận hàng",
+    "description": ""
+  },
+  "cCjScr": {
+    "defaultMessage": "Giao hàng tận nơi",
+    "description": ""
+  },
+  "ue_MCa": {
+    "defaultMessage": "Địa điểm & thời gian lấy hàng",
+    "description": ""
+  },
+  "2is2T_": {
+    "defaultMessage": "Địa chỉ giao hàng",
+    "description": ""
+  },
+  "04lL6_": {
+    "defaultMessage": "Giờ lấy hàng",
+    "description": ""
+  },
+  "CuUTdU": {
+    "defaultMessage": "Ngày ",
+    "description": ""
+  },
+  "hFtxeh": {
+    "defaultMessage": "Xem chỉ đường",
+    "description": ""
+  },
+  "EG3YJZ": {
+    "defaultMessage": "Vui lòng thông báo cho chúng tôi về bất thay đổi nào về của bạn bằng cách gọi:",
+    "description": ""
+  },
+  "04tSVI": {
+    "defaultMessage": "Gọi 1900 1234",
+    "description": ""
+  },
+  "9wAGrs": {
+    "defaultMessage": "Bạn đã xoá thành công",
+    "description": ""
+  },
+  "eqM8vP": {
+    "defaultMessage": "Tạo danh sách mới",
+    "description": ""
+  },
+  "VtniuG": {
+    "defaultMessage": "({number}) sản phẩm",
+    "description": ""
+  },
+  "10oaXG": {
+    "defaultMessage": "Bạn đã thêm sản phẩm thành công",
+    "description": ""
+  },
+  "v00fKa": {
+    "defaultMessage": "Sản phẩm đã tồn tại. Xin vui lòng chọn sản phẩm khác",
+    "description": ""
+  },
+  "zGPdwa": {
+    "defaultMessage": "Sản phẩm yêu thích",
+    "description": ""
+  },
+  "7vpvvG": {
+    "defaultMessage": "/Túi",
+    "description": ""
+  },
+  "ItoN0Q": {
+    "defaultMessage": "Hiện tại không có sản phẩm",
+    "description": ""
+  },
+  "-i5imR": {
+    "defaultMessage": "Thêm sản phẩm",
+    "description": ""
+  },
+  "A8Z2_N": {
+    "defaultMessage": "Tìm kiếm sản phẩm trong mục yêu thích",
+    "description": ""
+  },
+  "m81H7i": {
+    "defaultMessage": "Tìm kiếm",
+    "description": ""
+  },
+  "KYZRlL": {
+    "defaultMessage": "Chỉnh sửa",
+    "description": ""
+  },
+  "GJs4if": {
+    "defaultMessage": "Xoá",
+    "description": ""
+  },
+  "gI3Cx5": {
+    "defaultMessage": "Mua ngay",
+    "description": ""
+  },
+  "homeSuggest": {
+    "defaultMessage": "Đề xuất nhanh cho bạn",
+    "description": "Đề xuất nhanh cho bạn"
+  },
+  "yhIjb8": {
+    "defaultMessage": "Đăng nhập",
+    "description": ""
+  },
+  "snQZMQ": {
+    "defaultMessage": "Xem chi tiết đơn hàng",
+    "description": ""
+  },
+  "cC10_N": {
+    "defaultMessage": "Hiện tại bạn không có thông báo",
+    "description": ""
+  },
+  "sIIkS-": {
+    "defaultMessage": "Quản lý đơn hàng",
+    "description": ""
+  },
+  "YihVDH": {
+    "defaultMessage": "Vui lòng đợi...",
+    "description": ""
+  },
+  "uCJTEo": {
+    "defaultMessage": "({number}) của bạn trống",
+    "description": ""
+  },
+  "l6Fd6a": {
+    "defaultMessage": "Đã bán ({number})",
+    "description": ""
+  },
+  "1hF3CP": {
+    "defaultMessage": "Mua ngay",
+    "description": ""
+  },
+  "ksMM6J": {
+    "defaultMessage": "Đóng gói",
+    "description": ""
+  },
+  "x6loFG": {
+    "defaultMessage": "Cập nhật",
+    "description": ""
+  },
+  "R-Xef0": {
+    "defaultMessage": "Thông tin tài khoản được cập nhật.",
+    "description": ""
+  },
+  "XRmXF2": {
+    "defaultMessage": "Chúng tôi đã cập nhật tài khoản thông tin của bạn cho bạn.",
+    "description": ""
+  },
+  "YP4Rd5": {
+    "defaultMessage": "Không hợp lệ",
+    "description": ""
+  },
+  "d9bsQy": {
+    "defaultMessage": "Email bạn đã nhập không hợp lệ",
+    "description": ""
+  },
+  "Ktcnqr": {
+    "defaultMessage": "Thông tin tài khoản",
+    "description": ""
+  },
+  "jJjZKS": {
+    "defaultMessage": "Giới tính",
+    "description": ""
+  },
+  "5Vd6Hs": {
+    "defaultMessage": "Chọn phương thức nhận hàng",
+    "description": ""
+  },
+  "qtg2xb": {
+    "defaultMessage": "Giao hàng tận nơi",
+    "description": ""
+  },
+  "gNPKMg": {
+    "defaultMessage": "Chủ động thuận tiện nhận hàng tại:",
+    "description": ""
+  },
+  "7T-T81": {
+    "defaultMessage": "Chọn phương thức thanh toán",
+    "description": ""
+  },
+  "DbVZjh": {
+    "defaultMessage": "Xuất hoá đơn công ty",
+    "description": ""
+  },
+  "b_cwec": {
+    "defaultMessage": "Xem thông tin đơn hàng",
+    "description": ""
+  },
+  "p3PZdG": {
+    "defaultMessage": "Mua hàng ({number})",
+    "description": ""
+  },
+  "category": {
+    "defaultMessage": "Danh mục",
+    "description": ""
+  },
+  "guideline": {
+    "defaultMessage": "Hướng dẫn mua hàng và thanh toán",
+    "description": ""
+  },
+  "faq": {
+    "defaultMessage": "Câu hỏi thường gặp",
+    "description": ""
+  },
+  "terms_of_use": {
+    "defaultMessage": "Thỏa thuận sử dụng",
+    "description": ""
+  },
+  "privacy_policy": {
+    "defaultMessage": "Chính sách bảo mật",
+    "description": ""
+  },
+  "shipping_policy": {
+    "defaultMessage": "Chính sách vận chuyển",
+    "description": ""
+  },
+  "return_policy": {
+    "defaultMessage": "Chính sách đổi trả",
+    "description": ""
+  },
+  "addToCart": {
+    "defaultMessage": "Thêm vào giỏ",
+    "description": ""
+  },
+  "infoAccount": {
+    "defaultMessage": "Thông tin tài khoản",
+    "description": ""
+  },
+  "notification": {
+    "defaultMessage": "Thông báo",
+    "description": ""
+  },
+  "orderManagement": {
+    "defaultMessage": "Quản lý đơn hàng",
+    "description": ""
+  },
+  "productFavorite": {
+    "defaultMessage": "Sản phẩm yêu thích",
+    "description": ""
+  },
+  "jJjZKT": {
+    "defaultMessage": "Họ và Tên",
+    "description": ""
+  },
+  "jJjZKL": {
+    "defaultMessage": "Ngày sinh",
+    "description": ""
+  },
+  "newOrder": {
+    "defaultMessage": "Đơn hàng mới",
+    "description": ""
+  },
+  "finishOrder": {
+    "defaultMessage": "Đơn hoàn thành",
+    "description": ""
+  },
+  "voted": {
+    "defaultMessage": "Đã đánh giá",
+    "description": ""
+  },
+  "dateCreate": {
+    "defaultMessage": "Ngày tạo",
+    "description": ""
+  },
+  "codeOrder": {
+    "defaultMessage": "Mã đơn hàng",
+    "description": ""
+  },
+  "location": {
+    "defaultMessage": "Địa điểm",
+    "description": ""
+  },
+  "timePickUp": {
+    "defaultMessage": "Giờ lấy hàng",
+    "description": ""
+  },
+  "money": {
+    "defaultMessage": "Thành tiền",
+    "description": ""
+  },
+  "orderStatus": {
+    "defaultMessage": "Trạng thái đơn hàng",
+    "description": ""
+  },
+  "2wd2Xx": {
+    "defaultMessage": "Giỏ hàng của bạn trống",
+    "description": ""
+  },
+  "Bh9_OF": {
+    "defaultMessage": "Ghi chú",
+    "description": ""
+  },
+  "B_A6UF": {
+    "defaultMessage": "Lưu",
+    "description": ""
+  }
+}

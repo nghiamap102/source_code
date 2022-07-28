@@ -1,0 +1,91 @@
+
+.bullet {
+    background-color: var(--gray)!important;
+    opacity: 1!important;
+}
+.active {
+    background-color: var(--orange)!important;
+}
+
+.across {
+    width: 100%;
+    padding: 15px;
+}
+
+.d_fl_btw {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.d_fl_center {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.decription {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(180deg, var(--black) 0%, --black 100%);
+    color: var(--white);
+    padding: 118px 15px 40px ;
+    width: 100%;
+    font-weight:600;
+    font-size: 24px;
+    line-height: 29px;
+}
+
+.title{
+    padding-bottom: 15px;
+}
+
+.sub{
+    font-weight: 500;
+    font-size: 17px;
+    line-height: 20px;
+}
+
+
+.userSection{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    padding-top: 10px;
+}
+
+.avatar{
+    height: 30px;
+    width: 30px;
+    border-radius: 50%;
+    overflow: hidden; 
+    margin-right: 15px;
+}
+
+
+.userIn4{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: var(--white);
+}
+.point{
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 16px;
+}
+.point span{
+    font-weight: 700; 
+    line-height: 14px;  
+}
+.cart,.search{
+    padding: 0px 5px;
+}
+.search{
+    padding-right: 15px;
+}
+.name{
+    font-size: 17px;
+    line-height: 20px;
+    font-weight: 500;
+}

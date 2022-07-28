@@ -1,0 +1,82 @@
+[
+  {
+    "categoryName": "Adobo Sauce",
+    "categoryImage": "/images/categories/category-1.png",
+    "navigationLink": "https://www.figma.com/"
+  },
+  {
+    "categoryName": "Alco Pro",
+    "categoryImage": "/images/categories/category-2.png",
+    "navigationLink": "https://www.figma.com/"
+  },
+  {
+    "categoryName": "Barbeque Marinade",
+    "categoryImage": "/images/categories/category-3.png",
+    "navigationLink": "https://www.figma.com/"
+  },
+  {
+    "categoryName": "Beverages",
+    "categoryImage": "/images/categories/category-4.png",
+    "navigationLink": "https://www.figma.com/"
+  },
+  {
+    "categoryName": "Breading Mix",
+    "categoryImage": "/images/categories/category-5.png",
+    "navigationLink": " "
+  },
+  {
+    "categoryName": "Catsup",
+    "categoryImage": "/images/categories/category-6.png",
+    "navigationLink": " "
+  },
+  {
+    "categoryName": "Cooking Oils",
+    "categoryImage": "/images/categories/category-7.png",
+    "navigationLink": " "
+  },
+  {
+    "categoryName": "Lechon Sauce",
+    "categoryImage": "/images/categories/category-8.png",
+    "navigationLink": " "
+  },
+  {
+    "categoryName": "Adobo Sauce",
+    "categoryImage": "/images/categories/category-1.png",
+    "navigationLink": "https://www.figma.com/"
+  },
+  {
+    "categoryName": "Alco Pro",
+    "categoryImage": "/images/categories/category-2.png",
+    "navigationLink": "https://www.figma.com/"
+  },
+  {
+    "categoryName": "Barbeque Marinade",
+    "categoryImage": "/images/categories/category-3.png",
+    "navigationLink": "https://www.figma.com/"
+  },
+  {
+    "categoryName": "Beverages",
+    "categoryImage": "/images/categories/category-4.png",
+    "navigationLink": "https://www.figma.com/"
+  },
+  {
+    "categoryName": "Breading Mix",
+    "categoryImage": "/images/categories/category-5.png",
+    "navigationLink": " "
+  },
+  {
+    "categoryName": "Catsup",
+    "categoryImage": "/images/categories/category-6.png",
+    "navigationLink": " "
+  },
+  {
+    "categoryName": "Cooking Oils",
+    "categoryImage": "/images/categories/category-7.png",
+    "navigationLink": " "
+  },
+  {
+    "categoryName": "Lechon Sauce",
+    "categoryImage": "/images/categories/category-8.png",
+    "navigationLink": " "
+  }
+]

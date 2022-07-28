@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Banner /> snapshots render Banner Fold default 1`] = `
+<div>
+  <img
+    alt="fold-banner"
+    class="chakra-image css-xz30w5"
+    src="/images/fold-banner.png"
+  />
+</div>
+`;

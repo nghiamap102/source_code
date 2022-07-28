@@ -1,0 +1,20 @@
+{
+    "plugins": [
+        [
+            "babel-plugin-styled-components",
+            {
+                "ssr": true
+            }
+        ],
+        [
+            "formatjs",
+            {
+                "ast": true
+            }
+        ],
+        ["@emotion"]
+    ],
+    "presets": [
+        "next/babel"
+    ]
+}

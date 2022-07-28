@@ -1,0 +1,218 @@
+{
+    "recipes": [
+        {
+            "src": "/images/recipes/recipes1.png",
+            "main": "Skillet Chicken",
+            "sub": "and mushroom wine sauce",
+            "href": "/recipes",
+            "alt": "Recipes"
+        },
+        {
+            "src": "/images/recipes/recipes1.png",
+            "main": "Skillet Chicken",
+            "sub": "and mushroom wine sauce",
+            "href": "/recipes",
+            "alt": "Recipes"
+        },
+        {
+            "src": "/images/recipes/recipes1.png",
+            "main": "Skillet Chicken",
+            "sub": "and mushroom wine sauce",
+            "href": "/recipes",
+            "alt": "Recipes"
+        },
+        {
+            "src": "/images/recipes/recipes1.png",
+            "main": "Skillet Chicken",
+            "sub": "and mushroom wine sauce",
+            "href": "/recipes",
+            "alt": "Recipes"
+        },
+        {
+            "src": "/images/recipes/recipes1.png",
+            "main": "Skillet Chicken",
+            "sub": "and mushroom wine sauce",
+            "href": "/recipes",
+            "alt": "Recipes"
+        },
+        {
+            "src": "/images/recipes/recipes1.png",
+            "main": "Skillet Chicken",
+            "sub": "and mushroom wine sauce",
+            "href": "/recipes",
+            "alt": "Recipes"
+        },
+        {
+            "src": "/images/recipes/recipes1.png",
+            "main": "Skillet Chicken",
+            "sub": "and mushroom wine sauce",
+            "href": "/recipes",
+            "alt": "Recipes"
+        },
+        {
+            "src": "/images/recipes/recipes1.png",
+            "main": "Skillet Chicken",
+            "sub": "and mushroom wine sauce",
+            "href": "/recipes",
+            "alt": "Recipes"
+        }
+    ],
+    "listIcon": [
+        {
+            "src": "/images/recipes/wave.svg",
+            "alt": "Wave"
+        },
+        {
+            "src": "/images/recipes/wifi.svg",
+            "alt": "Wifi"
+        },
+        {
+            "src": "/images/recipes/battery.svg",
+            "alt": "Battery"
+        }
+    ],
+    "recipesListing": [
+        {
+            "name": "Juicy and Tender Pork Tenderloin Roast",
+            "star": 4,
+            "src": "/images/recipes/recipeslisting1.png",
+            "countStar": 1276,
+            "date": "1/03/2020",
+            "time": "22:10",
+            "author": "Woonheng",
+            "srcAuthor": "/profile",
+            "alt": "Recommend1",
+            "href": "/recipes"
+        },
+        {
+            "name": "Juicy and Tender Pork Tenderloin Roast",
+            "star": 4,
+            "src": "/images/recipes/recipeslisting2.png",
+            "countStar": 1276,
+            "date": "1/03/2020",
+            "time": "22:10",
+            "author": "Woonheng",
+            "srcAuthor": "/profile",
+            "alt": "Recommend1",
+            "href": "/recipes"
+        }
+    ],
+    "listTitle": [
+        {
+            "title": "Title A",
+            "icon": "/images/recipes/title1.svg",
+            "image": "/images/recipes/title1.png",
+            "alt": "Title A",
+            "href": "/recipes"
+        },
+        {
+            "title": "Title A",
+            "icon": "/images/recipes/title2.svg",
+            "image": "/images/recipes/title2.png",
+            "alt": "Title A",
+            "href": "/recipes"
+        },
+        {
+            "title": "Title A",
+            "icon": "/images/recipes/title3.svg",
+            "image": "/images/recipes/title3.png",
+            "alt": "Title A",
+            "href": "/recipes"
+        },
+        {
+            "title": "Title A",
+            "icon": "/images/recipes/title4.svg",
+            "image": "/images/recipes/title4.png",
+            "alt": "Title A",
+            "href": "/recipes"
+        },
+        {
+            "title": "Title A",
+            "icon": "/images/recipes/title5.svg",
+            "image": "/images/recipes/title5.png",
+            "alt": "Title A",
+            "href": "/recipes"
+        },
+        {
+            "title": "Title A",
+            "icon": "/images/recipes/title6.svg",
+            "image": "/images/recipes/title6.png",
+            "alt": "Title A",
+            "href": "/recipes"
+        }
+    ],
+    "recommend": [
+        {
+            "name": "Tofu Satay with Peanut Sauce",
+            "star": 4,
+            "src": "/images/recipes/recommend1.png",
+            "countStar": 1276,
+            "date": "1/03/2020",
+            "time": "22:10",
+            "author": "Woonheng",
+            "srcAuthor": "/profile",
+            "alt": "Recommend1",
+            "href": "/recipes"
+        },
+        {
+            "name": "Tofu Avocado Salad",
+            "star": 4,
+            "src": "/images/recipes/recommend2.png",
+            "countStar": 1276,
+            "date": "1/03/2020",
+            "time": "22:10",
+            "author": "Woonheng",
+            "srcAuthor": "/profile",
+            "alt": "Recommend2",
+            "href": "/recipes"
+        },
+        {
+            "name": "Pata Tim (Braised Pork Hocks)",
+            "star": 4,
+            "src": "/images/recipes/recommend3.png",
+            "countStar": 1276,
+            "date": "1/03/2020",
+            "time": "22:10",
+            "author": "Woonheng",
+            "srcAuthor": "/profile",
+            "alt": "Recommend3",
+            "href": "/recipes"
+        },
+        {
+            "name": "Easy Char Siu (Chinese BBQ pork)",
+            "star": 4,
+            "src": "/images/recipes/recommend4.png",
+            "countStar": 1276,
+            "date": "1/03/2020",
+            "time": "22:10",
+            "author": "Woonheng",
+            "srcAuthor": "/profile",
+            "alt": "Recommend4",
+            "href": "/recipes"
+        },
+        {
+            "name": "Filipino Pork Nilaga Soup",
+            "star": 4,
+            "src": "/images/recipes/recommend5.png",
+            "countStar": 1276,
+            "date": "1/03/2020",
+            "time": "22:10",
+            "author": "Woonheng",
+            "srcAuthor": "/profile",
+            "alt": "Recommend5",
+            "href": "/recipes"
+        },
+        {
+            "name": "Mami (noodle soup)",
+            "star": 4,
+            "src": "/images/recipes/recommend6.png",
+            "countStar": 1276,
+            "date": "1/03/2020",
+            "time": "22:10",
+            "author": "Woonheng",
+            "srcAuthor": "/profile",
+            "alt": "Recommend6",
+            "href": "/recipes"
+        }
+    ]
+}

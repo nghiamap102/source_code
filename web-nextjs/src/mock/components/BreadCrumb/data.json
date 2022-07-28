@@ -1,0 +1,26 @@
+{
+  "recipe": [
+    {
+      "id": 1,
+      "title": "HOME",
+      "navigationLink": "/"
+    },
+    {
+      "id": 2,
+      "title": "Recipes",
+      "navigationLink": "/recipes"
+    }
+],
+"article": [
+    {
+      "id": 1,
+      "title": "HOME",
+      "navigationLink": "/"
+    },
+    {
+      "id": 2,
+      "title": "ARICLES",
+      "navigationLink": "/article"
+    }
+  ]
+}
